@@ -30,10 +30,10 @@ Therefore creatures play dove with probability P and creatures  play Hawk with p
 Creatures that survive or reproduce to the next generation, carry their probability P to their children/successors.
 Therefore, it is possible to analyze which stochastic strategies are dominant and successful. 
 
-To depict the evolution of stochastic strategies, two simulation were created using different payoffs, see \autoref{weak} and 
-\autoref{dom} for results (the green(ish) colours represent playing Dove with high probability, red(ish) colours represent playing
+To depict the evolution of stochastic strategies, two simulation were created using different payoffs, see Left Table and 
+Right Table for results (the green(ish) colours represent playing Dove with high probability, red(ish) colours represent playing
 Hawk with high probability)  and tables below for the payoffs. The first simulation (left) is executed using a the basic payoff 
-matrix depicted in Section \ref{setup}, which involves a mixed strategy Nash equilibrium. The second simulation, depicts the Prisoner's
+matrix depicted in Left Table, which involves a mixed strategy Nash equilibrium. The second simulation, depicts the Prisoner's
 Dilemma situation, where there is only 1 strategy, which involves a pure strategy Nash Equilibrium.
 
 
@@ -48,7 +48,7 @@ Dilemma situation, where there is only 1 strategy, which involves a pure strateg
 
 </p>
 
-Observing the simulation using the mixed strategy Nash Equilibrium payoff matrix, one can conclude that stochastic strategies are also in equilibrium, as there are as many creatures playing Dove with high probability, as creatures being undecided ($p$ close to $0.5$), as creatures playing Hawk with high probability. In other words, p is uniformly distributed, meaning that there is no dominant stochastic strategy.
+Observing the simulation using the mixed strategy Nash Equilibrium payoff matrix, one can conclude that stochastic strategies are also in equilibrium, as there are as many creatures playing Dove with high probability, as creatures being undecided (p close to 0.5), as creatures playing Hawk with high probability. In other words, p is uniformly distributed, meaning that there is no dominant stochastic strategy.
 
 The second simulation presents a very different result. By using a payoff matrix with only one pure Nash equilibrium (Hawk), one can conclude that stochastic strategies are favorable for Hawk preferring creatures, thereby converging to a stable population only contained by hawks.
 
