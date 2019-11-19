@@ -39,11 +39,13 @@ Dilemma situation, where there is only 1 strategy, which involves a pure strateg
 
 <p align="center">
   <img src="payoff_matrix_mixed_equilibrium.PNG" width="227" alt="accessibility text">
+    <figcaption>{{ include.description }}</figcaption>
+
    <img src="payoff_matrix_pure_equilibrium.PNG" width="250" title="hover text">
 
 </p>
 <p align="center">
-  <img src="equilibrium1.PNG" width="385" alt="accessibility text">
+  <img src="equilibrium1.PNG" width="385" title="accessibility text">
    <img src="equilibrium2.PNG" width="350" title="hover text">
 
 </p>
