@@ -35,5 +35,11 @@ Hawk with high probability)  and tables below for the payoffs. The first simulat
 matrix depicted in Section \ref{setup}, which involves a mixed strategy Nash equilibrium. The second simulation, depicts the Prisoner's
 Dilemma situation, where there is only 1 strategy, which involves a pure strategy Nash Equilibrium.
 
+<p align="center">
+  <img src="equilibrium1.PNG" width="350" alt="accessibility text">
+   <img src="equilibrium2.PNG" width="350" title="hover text">
+
+</p>
+
 Visualization of drones operating in an urban airspace
-![](AIR_mobility_visualization.gif)
+![](EG1.mp4)
