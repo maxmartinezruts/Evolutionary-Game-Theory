@@ -1,9 +1,11 @@
 # Evolutionary-Game-Theory
 
+Visualization of drones operating in an urban airspace
+![](evolution_animation.gif)
+
 # Idea
 The idea of the present work is to study different topics of evolutionary game theory by simulating the evolution of a
-population of creatures that interact with each other in order to collect food. The simulation described below was inspired
-from the work of 
+population of creatures that interact with each other in order to collect food. 
 
 # Setup
 The experiment setup is composed by a fixed amount of a common resource (food in a fixed number of meals)
@@ -41,5 +43,4 @@ Dilemma situation, where there is only 1 strategy, which involves a pure strateg
 
 </p>
 
-Visualization of drones operating in an urban airspace
-![](EG1.mp4)
+
