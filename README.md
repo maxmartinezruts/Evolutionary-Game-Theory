@@ -41,13 +41,13 @@ Dilemma situation, where there is only 1 strategy, which involves a pure strateg
   <img src="payoff_matrix_mixed_equilibrium.PNG" width="227" alt="accessibility text">
 
    <img src="payoff_matrix_pure_equilibrium.PNG" width="250" title="hover text">
-    <figcaption>{{Left: Payoff Matrix of mixed strategy Nash Equilibrium  Right: Payoff matrix of pure strategy Nash Equilibrium}}</figcaption>
+    <figcaption>Left: Payoff Matrix of mixed strategy Nash Equilibrium  Right: Payoff matrix of pure strategy Nash Equilibrium</figcaption>
 
 </p>
 <p align="center">
   <img src="equilibrium1.PNG" width="385" title="accessibility text">
    <img src="equilibrium2.PNG" width="350" title="hover text">
-    <figcaption>{{Left: Evolution simulation of mixed strategy Nash Equilibrium  Right: Evolution simulation of pure strategy Nash Equilibrium}}</figcaption>
+    <figcaption>Left: Evolution simulation of mixed strategy Nash Equilibrium  Right: Evolution simulation of pure strategy Nash Equilibrium</figcaption>
 
 </p>
 
