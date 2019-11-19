@@ -39,9 +39,9 @@ Dilemma situation, where there is only 1 strategy, which involves a pure strateg
 
 <p align="center">
   <img src="payoff_matrix_mixed_equilibrium.PNG" width="227" alt="accessibility text">
-    <figcaption>{{ include.description }}</figcaption>
 
    <img src="payoff_matrix_pure_equilibrium.PNG" width="250" title="hover text">
+    <figcaption>{{ include.description }}</figcaption>
 
 </p>
 <p align="center">
