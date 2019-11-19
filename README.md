@@ -1,8 +1,7 @@
 # Evolutionary-Game-Theory
 
 # Idea
-The idea of the present work is to study different topics of evolutionary game theory by simulating the evolution of a
-population of creatures that interact with each other in order to collect food. 
+The idea of the present project is to depict the process of evolutionary game theroy by building a simulator of an environment where two species have to interact with each other to collect food. 
 
 # Setup
 The experiment setup is composed by a fixed amount of a common resource (food in a fixed number of meals)
